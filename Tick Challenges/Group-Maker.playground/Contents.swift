@@ -73,5 +73,16 @@ studentRandomPosition
 
 //Find the highest number in the list of random numbers
 
+var maxValue = studentRandomPosition[0]
+var maxIndex = 0
 
+for (index,number) in studentRandomPosition.enumerate() {
+    if maxValue < number {
+        maxValue = number
+        maxIndex = index
+    }
+}
 
+print(maxValue)
+print(maxIndex)
+studentRandomPosition
