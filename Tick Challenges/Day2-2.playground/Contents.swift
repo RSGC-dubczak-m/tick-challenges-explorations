@@ -6,24 +6,28 @@ var str = "Hello, playground"
 
 var altitude = Int()
 
-var humidity = Int()
+var humidity = 100
 
 var time = 0
 
 var maximum = 240
 
-while (time > maximum){
+while (time < maximum){
+    
+        altitude = (-6*(time^4)) + (humidity*(time^3)) + (2*(time^2)) + time
 
-    while (humidity < 100){
+        altitude
         
-        altitude = (-6*(time^4)) + (humidity*(time^3)) +
-
-        if (altitude <= 0)
+        if (altitude <= 0) {
+            print(time)
+            exit(0)
+            
+        }
             
         
         
-        humidity++
-    }
+
+    
     time++
-    humidity == 0
+
 }
