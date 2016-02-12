@@ -32,6 +32,9 @@
 		81726FD81C6A12EC0051FF26 /* Day4-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day4-1.playground"; sourceTree = "<group>"; };
 		81726FD91C6A12FB0051FF26 /* Day4-2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day4-2.playground"; sourceTree = "<group>"; };
 		81726FDA1C6A130A0051FF26 /* Day4-3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day4-3.playground"; sourceTree = "<group>"; };
+		81C52DEF1C6E8EED0064425B /* Day2-1-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day2-1-Solution.playground"; sourceTree = "<group>"; };
+		81C52DF01C6E8EFB0064425B /* Day2-2-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day2-2-Solution.playground"; sourceTree = "<group>"; };
+		81C52DF11C6E8F090064425B /* Day2-3-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day2-3-Solution.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,12 +51,15 @@
 		813FADA51C5A6678005C19DC = {
 			isa = PBXGroup;
 			children = (
+				813884AF1C5FA7EE00F6DBDC /* Day2-1.playground */,
+				81C52DEF1C6E8EED0064425B /* Day2-1-Solution.playground */,
+				813884B01C5FA7F700F6DBDC /* Day2-2.playground */,
+				81C52DF01C6E8EFB0064425B /* Day2-2-Solution.playground */,
+				813884B11C5FA80100F6DBDC /* Day2-3.playground */,
+				81C52DF11C6E8F090064425B /* Day2-3-Solution.playground */,
 				81726FD81C6A12EC0051FF26 /* Day4-1.playground */,
 				81726FD91C6A12FB0051FF26 /* Day4-2.playground */,
 				81726FDA1C6A130A0051FF26 /* Day4-3.playground */,
-				813884AF1C5FA7EE00F6DBDC /* Day2-1.playground */,
-				813884B01C5FA7F700F6DBDC /* Day2-2.playground */,
-				813884B11C5FA80100F6DBDC /* Day2-3.playground */,
 				813FADB81C5A668D005C19DC /* Group-Maker.playground */,
 				813FADB01C5A6678005C19DC /* Tick Challenges */,
 				813FADAF1C5A6678005C19DC /* Products */,
